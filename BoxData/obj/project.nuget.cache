@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "6NdBsf2iKYq4j6Ah1iiSCQ/aM9WK7zy8tBe40ppyNM8xcE6EISXWoCToKaRRiAHKOj1DPtXLy6auUPxOWVC+sg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\13. OOP Principles Encapsulation and Inheritance\\13-Resources-OOP-Principles-Encapsulation-Inheritance\\BoxData\\BoxData.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.28\\microsoft.netcore.app.host.win-x64.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}

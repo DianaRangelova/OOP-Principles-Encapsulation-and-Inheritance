@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "yt8Y6YziF/0wg2tnrOhpYXD3rnOSiuZMiep4xFjx17D2bAS6o7pBx9+kC+7ki7GVzIRpmmgoOBVWKXxkGhHEXA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\PC\\Desktop\\QA Fundamentals\\Programming Advanced for QA\\13. OOP Principles Encapsulation and Inheritance\\13-Resources-OOP-Principles-Encapsulation-Inheritance\\Players\\Players.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.28\\microsoft.windowsdesktop.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.28\\microsoft.netcore.app.ref.6.0.28.nupkg.sha512",
+    "C:\\Users\\PC\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.28\\microsoft.aspnetcore.app.ref.6.0.28.nupkg.sha512"
+  ],
+  "logs": []
+}
